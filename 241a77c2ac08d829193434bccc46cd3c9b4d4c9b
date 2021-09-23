@@ -1,0 +1,1 @@
+{"jobID":"534a444e-ade0-ecbe-7ecc-248ac1701ce4","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"miphmanifest:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
